@@ -1,0 +1,15 @@
+{
+  "name": "fuwasaba-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Quantum8060",
+  "license": "MIT",
+  "description": "ふわ鯖テストBOT-1",
+  "dependencies": {
+    "discord.js": "^14.16.2"
+  }
+}
