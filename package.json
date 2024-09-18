@@ -11,5 +11,13 @@
   "description": "ふわ鯖テストBOT-1",
   "dependencies": {
     "discord.js": "^14.16.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuwasaba2/Fuwasaba-BOT-Mk2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fuwasaba2/Fuwasaba-BOT-Mk2/issues"
+  },
+  "homepage": "https://github.com/fuwasaba2/Fuwasaba-BOT-Mk2#readme"
 }
